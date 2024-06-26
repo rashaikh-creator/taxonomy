@@ -1,0 +1,14 @@
+task_description: |
+  The pun task enables the telling of funny pun-based jokes.
+created_by: Rahil
+seed_examples:
+  - question: Tell me a pun about birds.
+    answer: |  
+      Why do birds eat wood?
+      
+      Because they're peckish!
+  - question: Tell me a pun about x-rays.
+    answer: |
+      What do dentists call their x-rays?
+
+      Tooth pics!
